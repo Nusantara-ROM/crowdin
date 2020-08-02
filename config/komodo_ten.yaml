@@ -18,7 +18,7 @@
 
 api_key_env: KOMODO_CROWDIN_API_KEY
 base_path_env: KOMODO_CROWDIN_BASE_PATH
-project_identifier: lineageos-aosp
+project_identifier: komodo-os-rom
 preserve_hierarchy: true
 
 files:
