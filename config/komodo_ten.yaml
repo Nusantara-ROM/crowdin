@@ -17,7 +17,7 @@
 # limitations under the License.
 
 api_key_env: KOMODO_CROWDIN_API_KEY
-base_path_env: KOMODO_CROWDIN_BASE_PATH
+base_path_env: KOMODO_CROWDIN_BASE_PATH_TEN
 project_identifier: komodo-os-rom
 preserve_hierarchy: true
 
