@@ -17,12 +17,12 @@
 # limitations under the License.
 
 api_key_env: NAD_CROWDIN_API_KEY
-base_path_env: NAD_CROWDIN_BASE_PATH_TEN
+base_path_env: NAD_CROWDIN_BASE_PATH_11
 project_identifier: nusantara-rom
 preserve_hierarchy: true
 
 files:
-# Default for Komodo OS
+# Default for Nusantara Rom
   -
     source:      '/**/values/nad_strings.xml'
     translation: '/%original_path%-%android_code%/%original_file_name%'
