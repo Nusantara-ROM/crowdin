@@ -28,7 +28,6 @@ files:
     translation: '/%original_path%-%android_code%/%original_file_name%'
     languages_mapping: &anchor
       android_code:
-      android_code:
         # Arab
         ar: ar
         # Cina
