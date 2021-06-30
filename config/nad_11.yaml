@@ -56,8 +56,8 @@ files:
     translation: '/%original_path%-%android_code%/%original_file_name%'
     languages_mapping: *anchor
 
-# Komodo Settings
+# Nusantara Wings
   -
-    source:      '/packages/apps/KomodoSettings/res/values/nad_strings.xml'
+    source:      '/packages/apps/NusantaraWings/res/values/nad_strings.xml'
     translation: '/%original_path%-%android_code%/%original_file_name%'
     languages_mapping: *anchor
