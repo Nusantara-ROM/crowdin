@@ -580,7 +580,7 @@ def main():
         sys.exit(0)
 
     base_path_branch_suffix = default_branch.replace('-', '_').replace('.', '_').upper()
-    base_path_env = f'LINEAGE_CROWDIN_BASE_PATH_{base_path_branch_suffix}'
+    base_path_env = f'NAD_CROWDIN_BASE_PATH_{base_path_branch_suffix}'
     base_path = os.getenv(base_path_env)
     if base_path is None:
         cwd = os.getcwd()
