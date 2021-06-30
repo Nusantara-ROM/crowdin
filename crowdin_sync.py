@@ -601,7 +601,7 @@ def main():
     if xml_extra is None:
         sys.exit(1)
 
-    xml_snippet = load_xml(x=f'{base_path}/android/snippets/lineage.xml')
+    xml_snippet = load_xml(x=f'{base_path}/android/snippets/nusantara.xml')
     if xml_snippet is None:
         xml_snippet = load_xml(x=f'{base_path}/android/snippets/cm.xml')
     if xml_snippet is None:
