@@ -38,12 +38,14 @@ files:
         ja: ja
         # Myanmar
         my: my
+        # Malaysia
+        ms: ms
+        # Portugis
+        pt-PT: pt-PT
         # Rusia
         ru: ru
         # Thailand
         th: th
-        # Malaysia
-        ms: ms
         # Turki
         tr: tr
         # Vietnam
